@@ -1,0 +1,11 @@
+../Inc/core_cm4.h:1725:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/timer.c:10:6:Timer2_init	16	static
+../Src/timer.c:21:6:Timer5_init	16	static
+../Src/timer.c:32:13:Timer2_init_WI	4	static
+../Src/timer.c:39:13:Timer5_init_WI	4	static
+../Src/timer.c:46:6:start_Timer2	4	static
+../Src/timer.c:50:6:start_Timer5	4	static
+../Src/timer.c:54:6:TIM2_IRQHandler	4	static
+../Src/timer.c:60:6:TIM5_IRQHandler	4	static
+../Src/timer.c:66:6:TIM2_delay	24	static
+../Src/timer.c:80:6:TIM5_delay	24	static

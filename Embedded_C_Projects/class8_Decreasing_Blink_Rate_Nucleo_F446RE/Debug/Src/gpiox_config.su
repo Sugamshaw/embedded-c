@@ -1,0 +1,9 @@
+../Src/gpiox_config.c:12:10:map_port_to_num	16	static
+../Src/gpiox_config.c:35:15:get_GPIOx_PORT	64	static
+../Src/gpiox_config.c:55:10:get_GPIOx_PORT_Enabler	64	static
+../Src/gpiox_config.c:73:6:GPIOx_init	32	static
+../Src/gpiox_config.c:115:9:is_IDR_ON_at_pin	24	static
+../Src/gpiox_config.c:122:9:is_pin_set	24	static
+../Src/gpiox_config.c:129:6:set_ODR_at_pin	24	static
+../Src/gpiox_config.c:134:6:reset_ODR_at_pin	24	static
+../Src/gpiox_config.c:139:6:toggle_ODR_at_pin	24	static
